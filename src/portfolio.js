@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 💻 and AI/ML enthusiast 🤖 experienced in building Web applications with JavaScript / React.js / Node.js and leveraging cutting-edge technologies like Deep Learning and Generative AI."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1TuNBeUzVI2mc_vdmq49QwQRd-HLGEapL/view?usp=drive_link", // Keep as-is or replace with a permanent link
+    "https://drive.google.com/uc?export=download&id=1TuNBeUzVI2mc_vdmq49QwQRd-HLGEapL",  // Keep as-is or replace with a permanent link
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
