@@ -125,7 +125,7 @@ const educationInfo = {
       desc: "Strong foundation in Full Stack Development, Artificial Intelligence, and Machine Learning.", // Based on Summary [cite: 7]
       descBullets: [
         "Relevant Coursework includes Data Structures & Algorithms, DBMS, Machine Learning, and Software Engineering. ",
-        "Proficient in Python, SQL, and the MERN stack for robust web and AI-driven solutions. [cite: 8]"
+        "Proficient in Python, SQL, and the MERN stack for robust web and AI-driven solutions. "
       ]
     },
   ]
@@ -174,10 +174,10 @@ const workExperiences = {
       company: "Ekshauk", // Company [cite: 23]
       companylogo: require("./assets/images/airbnbLogo.png"), // Placeholder, use your logo path
       date: "Dec 2023 – Apr 2024", // Dates [cite: 23]
-      desc: "Conducted exploratory data analysis, data cleaning, and feature engineering to prepare datasets for ML models and analytical reporting. [cite: 24, 25]",
+      desc: "Conducted exploratory data analysis, data cleaning, and feature engineering to prepare datasets for ML models and analytical reporting.",
       descBullets: [
-        "Developed and implemented visual dashboards using **Power BI** to track key metrics and identify performance trends. [cite: 26]",
-        "Contributed to database design and optimized **SQL queries** for improved data retrieval efficiency. [cite: 27]"
+        "Developed and implemented visual dashboards using Power BI to track key metrics and identify performance trends. ",
+        "Contributed to database design and optimized SQL queries for improved data retrieval efficiency."
       ]
     },
     {
