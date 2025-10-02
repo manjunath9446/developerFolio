@@ -43,7 +43,7 @@ export default function Greeting() {
                 {greeting.resumeLink && (
                   <a
                     // FINAL FIX: Uses the simple root path, assuming resume.pdf is in the 'public' folder.
-                    href="/resume.pdf"
+                    href={process.env.PUBLIC_URL + "/resume.pdf"}
                     download="Manjunath_Resume.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
